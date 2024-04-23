@@ -1,0 +1,29 @@
+[
+    {
+      "model": "myapp.product",
+      "pk": 1,
+      "fields": {
+        "name": "Pizza",
+        "price": "10.99",
+        "description": "A Extra Cheesy Pizza"
+      }
+    },
+    {
+      "model": "myapp.product",
+      "pk": 2,
+      "fields": {
+        "name": "Dr.Pepper",
+        "price": "5.99",
+        "description": "A nice Drink"
+      }
+    },
+    {
+        "model": "myapp.product",
+        "pk": 3,
+        "fields": {
+          "name": "Dr.Pepper",
+          "price": "8.99",
+          "description": "A nice Drink"
+        }
+      }
+  ]
